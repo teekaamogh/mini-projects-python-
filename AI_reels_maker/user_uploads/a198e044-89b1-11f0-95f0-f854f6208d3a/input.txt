@@ -1,0 +1,12 @@
+file 'cat1.jpeg'
+ duration 1
+file 'cat2.jpeg'
+ duration 1
+file 'cat3.jpeg'
+ duration 1
+file 'cat4.jpeg'
+ duration 1
+file 'cat5.jpeg'
+ duration 1
+file 'cat6.jpeg'
+ duration 1
